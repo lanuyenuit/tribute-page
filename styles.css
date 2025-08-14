@@ -1,0 +1,55 @@
+#main {
+  background-color: #eee;
+  border-radius: 5px;
+  padding: 15px;
+  margin: 20px auto;
+}
+#title-div {
+  text-align: center;
+  padding: 15px;
+}
+
+#img-div {
+  background-color: #fff;
+  padding: 10px
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+#img-caption {
+  text-align: center;
+  padding: 10px;
+}
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+}
+
+#tribute-info {
+  margin: auto 100px
+}
+#tribute-info h2 {
+  text-align: center;
+}
+
+#tribute-info ul li {
+  margin: 20px 0; 
+}
+
+#quote {
+  padding: 20px 0;
+}
+
+#text {
+  text-align: center;
+}
